@@ -35,7 +35,7 @@ public class Gestor
             DB_MYSQL_LOCALHOST = 2;
 
     /**
-     Conecta a la BD de tipo 'dbType', abriendo el esquema apuntado por 'dbFile'.
+     Conecta a la BD dedfdfdfdf tipo 'dbType', abriendo el esquema apuntado por 'dbFile'.
      <p>
      @param dbType tipo de BD relacional:<br>RDB.DB_UCANACCESS<br>RDB.DB_MYSQL_LOCALHOST
      @param dbFile fichero que apunta al esquema
